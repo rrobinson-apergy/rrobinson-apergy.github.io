@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<font size = "2"><b>TechVest</b></font>
+		<b>TechVest</b>
 	</head>
 	<body>
 		<nav>
