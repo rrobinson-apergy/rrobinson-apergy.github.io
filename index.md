@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<b>TechVest</b>
+		<font size = "6"><b>TechVest</b></font>
 	</head>
 	<body>
 		<nav>
@@ -19,3 +19,4 @@
 
 </html>
 
+  <font size="1">This is really tiny text.</font>
