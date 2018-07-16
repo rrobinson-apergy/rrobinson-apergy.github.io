@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		TechVest
+		<b>TechVest</b>
 	</head>
 	<body>
 		<nav>
