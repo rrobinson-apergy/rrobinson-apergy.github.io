@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<b>TechVest</b>
+		<b>One Teamt</b>
 	</head>
 	<body>
 		<nav>
@@ -14,7 +14,7 @@
 		</nav>
 		<div class="container">
     		<div class="blurb">
-        		<h1>Welcome!</h1>
+        		<h1>Welcome to One Team, we cover technologies and companies that are advancing the human race!</h1>
 			
 
 </html>
