@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>TechVest</title>
+		TechVest
 	</head>
 	<body>
 		<nav>
@@ -14,7 +14,7 @@
 		</nav>
 		<div class="container">
     		<div class="blurb">
-        		<h1>Hi there, I'm Rohan Robinsonn!</h1>
+        		<h1>Hi there, I'm Rohan Robinson!</h1>
 			
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
