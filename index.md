@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 	<head>
 		<b>One Team</b>
@@ -14,6 +14,6 @@
     	
 			
 
-</html>
+
 
 
