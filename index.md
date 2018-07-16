@@ -6,22 +6,16 @@
 	<body>
 		<nav>
     		<ul>
-        		<li><a href="/">Home</a></li>
-	        	<li><a href="/About">About</a></li>
-        		<li><a href="/Reports">CV</a></li>
-        		<li><a href="/Blog">Blog</a></li>
+        		<li><a href="/Home">Home</a></li>
+	        	<li><a href="/AboutUs">About</a></li>
+        		<li><a href="/BreakDowns">BreakDowns</a></li>
+        		<li><a href="/JamSeshs">JamSeshs</a></li>
     		</ul>
 		</nav>
 		<div class="container">
     		<div class="blurb">
-        		<h1>Hi there, I'm Rohan Robinson!</h1>
+        		<h1>Welcome!</h1>
 			
-    		</div><!-- /.blurb -->
-		</div><!-- /.container -->
-		<footer>
-    		
-			</ul>
-		</footer>
-	</body>
+
 </html>
 
